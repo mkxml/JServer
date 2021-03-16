@@ -1,14 +1,15 @@
-## Getting Started
+# JServer
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Servidor HTTP escrito em Java para fins educacionais.
 
-## Folder Structure
+Desenhado para a disciplina de Sistemas Distribuídos na Universidade Feevale.
 
-The workspace contains two folders by default, where:
+Este é um trabalho em andamento.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Autor
 
-## Dependency Management
+- Matheus Kautzmann
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## Licença
+
+[MIT](LICENSE)
